@@ -1,0 +1,10 @@
+C:\Users\Ant\Downloads\OS_University-master\LR4\bin\Debug\LR4.exe.config
+C:\Users\Ant\Downloads\OS_University-master\LR4\bin\Debug\LR4.exe
+C:\Users\Ant\Downloads\OS_University-master\LR4\bin\Debug\LR4.pdb
+C:\Users\Ant\Downloads\OS_University-master\LR4\obj\Debug\LR4.csprojAssemblyReference.cache
+C:\Users\Ant\Downloads\OS_University-master\LR4\obj\Debug\LR4.Form1.resources
+C:\Users\Ant\Downloads\OS_University-master\LR4\obj\Debug\LR4.Properties.Resources.resources
+C:\Users\Ant\Downloads\OS_University-master\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+C:\Users\Ant\Downloads\OS_University-master\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Ant\Downloads\OS_University-master\LR4\obj\Debug\LR4.exe
+C:\Users\Ant\Downloads\OS_University-master\LR4\obj\Debug\LR4.pdb
